@@ -43,7 +43,14 @@ function updateUser($data, $id)
 
 function deleteUser($id)
 {
+    $users = getUsers();
+    foreach ($users as $i => $user) {
+        if ($user['id'] == $id) {
+            array_splice($users, $i, 1);
+        }
+    }
 
+    encodeJson($users);
 }
 
 function uploadImage($file, $user)

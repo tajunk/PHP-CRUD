@@ -8,19 +8,35 @@
         "extension": "jpg"
     },
     {
-        "id": 2,
-        "name": "Sarah Doe",
-        "username": "Sarah",
+        "name": "Sarah B",
+        "username": "sarahb",
         "email": "sarah@email.com",
-        "phone": "1-800-7950",
+        "phone": "9694694096",
+        "id": 1574620,
         "extension": "jpg"
     },
     {
-        "name": "Jamie Park",
-        "username": "jamiepark",
-        "email": "jamiepark@email.com",
-        "phone": "7809239523",
-        "id": 1382714,
-        "extension": "jpg"
+        "name": "Taylor Awde",
+        "username": "taylora",
+        "email": "taylorawde@gmail.com",
+        "phone": "7809839562",
+        "id": 1009652,
+        "extension": ""
+    },
+    {
+        "name": "Jeremy H",
+        "username": "jeremy",
+        "email": "jeremy@example.com",
+        "phone": "12314512532",
+        "id": 1398604,
+        "extension": ""
+    },
+    {
+        "name": "Holly",
+        "username": "holly",
+        "email": "holly@email.com",
+        "phone": "31322131231",
+        "id": 1200760,
+        "extension": ""
     }
 ]
