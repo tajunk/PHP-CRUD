@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe2",
+        "username": "John",
+        "email": "john@email.com",
+        "phone": "1-800-7900",
+        "extension": "jpg"
+    },
+    {
+        "id": 2,
+        "name": "Sarah Doe",
+        "username": "Sarah",
+        "email": "sarah@email.com",
+        "phone": "1-800-7950",
+        "extension": "jpg"
+    },
+    {
+        "name": "Jamie Park",
+        "username": "jamiepark",
+        "email": "jamiepark@email.com",
+        "phone": "7809239523",
+        "id": 1382714,
+        "extension": "jpg"
+    }
+]
